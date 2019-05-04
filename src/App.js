@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Loadable from "react-loadable";
 import 'bootstrap/dist/css/bootstrap.css';
@@ -8,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import {HashRouter, Route, Switch} from "react-router-dom";
 
 /*aqui van las variables XC */
-const loading = ()=> '<div class="spinner-grow text-dark" role="status"><span class="sr-only">Loading...</span></div>'
+const loading = ()=> {return <div className="spinner-grow text-dark" role="status"><span className="sr-only">Loading...</span></div>}
 //para las vistas
 //inicio
 const escenario = Loadable({
