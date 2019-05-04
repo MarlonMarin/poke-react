@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PokeExport/static/css/main.584f321a.chunk.css",
+    "main.js": "/PokeExport/static/js/main.2eb2d656.chunk.js",
+    "main.js.map": "/PokeExport/static/js/main.2eb2d656.chunk.js.map",
+    "runtime~main.js": "/PokeExport/static/js/runtime~main.6cd557db.js",
+    "runtime~main.js.map": "/PokeExport/static/js/runtime~main.6cd557db.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/PokeExport/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.e01633bc.chunk.js": "/PokeExport/static/js/2.e01633bc.chunk.js",
+    "static/js/2.e01633bc.chunk.js.map": "/PokeExport/static/js/2.e01633bc.chunk.js.map",
+    "static/css/3.602e8328.chunk.css": "/PokeExport/static/css/3.602e8328.chunk.css",
+    "static/js/3.badbfd45.chunk.js": "/PokeExport/static/js/3.badbfd45.chunk.js",
+    "static/js/3.badbfd45.chunk.js.map": "/PokeExport/static/js/3.badbfd45.chunk.js.map",
+    "index.html": "/PokeExport/index.html",
+    "precache-manifest.0c0450403a5a53f1fc50ee2737e2a997.js": "/PokeExport/precache-manifest.0c0450403a5a53f1fc50ee2737e2a997.js",
+    "service-worker.js": "/PokeExport/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/PokeExport/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/3.602e8328.chunk.css.map": "/PokeExport/static/css/3.602e8328.chunk.css.map",
+    "static/css/main.584f321a.chunk.css.map": "/PokeExport/static/css/main.584f321a.chunk.css.map",
+    "static/media/FondoSonido.mp3": "/PokeExport/static/media/FondoSonido.a400a87b.mp3",
+    "static/media/escenario.css": "/PokeExport/static/media/bg.65d5511a.png"
+  }
+}
